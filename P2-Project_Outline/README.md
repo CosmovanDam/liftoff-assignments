@@ -18,11 +18,11 @@ We have users that add content into “playlists” through the use of links (al
 - **Etymology page**: ability to fork playlists and show etymology of changes of that playlist
 
 ### Technologies
-ASP.NET Web API backend
-Angular frontend
-	TypeScript
-	HTML
-	CSS Bootstrap/SASS
+- ASP.NET Web API backend
+- Angular frontend
+- TypeScript
+- HTML
+- CSS Bootstrap/SASS
   
 ### What I'll Have to Learn
 - How to build a proper web API

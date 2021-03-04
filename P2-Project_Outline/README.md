@@ -22,7 +22,7 @@ ASP.NET Web API backend
 Angular frontend
 	TypeScript
 	HTML
-  CSS Bootstrap/SASS
+	CSS Bootstrap/SASS
   
 ### What I'll Have to Learn
 - How to build a proper web API

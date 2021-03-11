@@ -14,5 +14,5 @@ https://www.linkedin.com/in/ethan-kovalenko-758b14208/
 
 ### Resume
 
-https://docs.google.com/document/d/1_sIksFumX4Rk_82vW2S0SUcXeiHTTT68M_rT3XYmKxE/edit
+https://docs.google.com/document/d/1_sIksFumX4Rk_82vW2S0SUcXeiHTTT68M_rT3XYmKxE/edit?usp=sharing
 
